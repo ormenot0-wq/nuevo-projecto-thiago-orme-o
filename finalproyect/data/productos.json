@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Auriculares Bluetooth",
+    "categoria": "audio",
+    "precio": 25000,
+    "stock": 8,
+    "imagen": "./img/audis.png",
+    "descripcion": "Auriculares inalámbricos con micrófono"
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado Mecánico",
+    "categoria": "perifericos",
+    "precio": 48000,
+    "stock": 5,
+    "imagen": "./img/teclado.webp",
+    "descripcion": "teclado con switches mecánicos y luces RGB"
+  },
+    {
+    "id": 3,
+    "nombre": "Mouse",
+    "categoria": "perifericos",
+    "precio": 18000,
+    "stock": 10,
+    "imagen": "./img/mouse.webp",
+    "descripcion": "mouse con luces led excelente para tu pc"
+  }
+]
